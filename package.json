@@ -1,0 +1,15 @@
+{
+  "name": "reto",
+  "version": "1.0.0",
+  "description": "Este es el reto 5 del curso cinta roja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Arriola",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  }
+}
